@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+.chocolate {
+  margin-bottom: 10px;
+}
+
+#summary {
+  margin-top: 20px;
+}
+
+#selected-chocolates {
+  margin-bottom: 10px;
+}
+
+#total-price {
+  font-weight: bold;
+}
+.chocolate img{
+    height:100px;
+    width: 100px;
+}
